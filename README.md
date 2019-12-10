@@ -1,2 +1,2 @@
 # Visionary
- Responsive Admin template  is built with Vue 2 and Vuetify
+ Responsive Admin template  -  built with Vue 2 and Vuetify
